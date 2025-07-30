@@ -38,7 +38,8 @@ Ask me about:
 
 ### 📨 Connect with me
 
-[<img width="40" height="40" margin-right="30" alt="telegram" src="https://github.com/user-attachments/assets/57eb738f-93f3-4e39-95a3-2cb3ed5bba52" />](https://t.me/Alina_IT_developer)  [<img width="40" height="40" alt="mail" src="https://github.com/user-attachments/assets/a99b60ff-fe06-450b-9e2c-836596b73b52" />](mailto:Alina.frontend.22@gmail.com)
+[<img width="40" height="40" alt="telegram" src="https://github.com/user-attachments/assets/57eb738f-93f3-4e39-95a3-2cb3ed5bba52" />](https://t.me/Alina_IT_developer)  
+[<img width="40" height="40" alt="mail" src="https://github.com/user-attachments/assets/a99b60ff-fe06-450b-9e2c-836596b73b52" />](mailto:Alina.frontend.22@gmail.com)
 
 
 
