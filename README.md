@@ -2,11 +2,11 @@
 
 ![work cat](https://github.com/user-attachments/assets/51ea88ad-c025-499c-bbc2-b467f384323d)
 
-👩🏼‍💻 I'm a frontend developer from Moscow with a passion for clean code, great UX, and beautiful UI.
-☕ I believe good coffee and good design have something in common — they both make life better.
+- 👩🏼‍💻 I'm a frontend developer from Moscow with a passion for clean code, great UX, and beautiful UI.
+- ☕ I believe good coffee and good design have something in common — they both make life better.
 
 
-### 💼 What I do
+### 🪄 What I do
 
 - 💻 I build modern, responsive websites with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
 - 🎨 I care about UI/UX and often design interfaces in **Figma**
@@ -15,7 +15,7 @@
 
 ### 🌟 Skills & Tools
 
-<img width="40" alt="gitlab" src="https://github.com/user-attachments/assets/560c1fd7-b9bc-43a0-b639-83549c6e847c" style="margin-right: 10px;" />
+<img width="40" alt="gitlab" src="https://github.com/user-attachments/assets/560c1fd7-b9bc-43a0-b639-83549c6e847c" style="margin-right: 30px;" />
 <img width="40" alt="github" src="https://github.com/user-attachments/assets/127d1f26-a87e-4537-b9fd-bec8c90c2d4c" style="margin-right: 10px;" />
 <img width="40" alt="figma" src="https://github.com/user-attachments/assets/9290c013-b85d-40c4-b8ec-ca5524cf7d9f" style="margin-right: 10px;" />
 <img width="40" alt="react" src="https://github.com/user-attachments/assets/81f030d7-954f-4159-8476-afcf0085d632" style="margin-right: 10px;" />
@@ -38,7 +38,7 @@ Ask me about:
 
 ### 📨 Connect with me
 
-[<img height="40" alt="telegram" src="https://github.com/user-attachments/assets/57eb738f-93f3-4e39-95a3-2cb3ed5bba52" />](https://t.me/Alina_IT_developer)  [<img height="40" alt="mail" src="https://github.com/user-attachments/assets/a99b60ff-fe06-450b-9e2c-836596b73b52" />](mailto:Alina.frontend.22@gmail.com)
+[<img width="40" height="40" alt="telegram" src="https://github.com/user-attachments/assets/57eb738f-93f3-4e39-95a3-2cb3ed5bba52" />](https://t.me/Alina_IT_developer)  [<img width="40" height="40" alt="mail" src="https://github.com/user-attachments/assets/a99b60ff-fe06-450b-9e2c-836596b73b52" />](mailto:Alina.frontend.22@gmail.com)
 
 
 
