@@ -1,9 +1,12 @@
 # Hi there, I’m Alina! 👋
 
 ![work cat](https://github.com/user-attachments/assets/f5ef5ecd-f0c7-429c-8a3e-4250e443335e)
+![work cat](https://github.com/user-attachments/assets/51ea88ad-c025-499c-bbc2-b467f384323d)
 
+<span style="color:#e63946; font-weight: bold; font-size: 16px;">
 👩🏼‍💻 I'm a frontend developer from Moscow with a passion for clean code, great UX, and beautiful UI.  
 ☕ I believe good coffee and good design have something in common — they both make life better.
+</span>
 
 ### 💼 What I do
 
