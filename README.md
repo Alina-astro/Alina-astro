@@ -1,26 +1,45 @@
-Hi👋
+# Hi there, I’m Alina! 👋
 
-![work cat](https://github.com/Alina-astro/Alina-astro/assets/112349747/76b43e23-61c9-4531-a109-857c812a807d)
+![work cat](https://github.com/user-attachments/assets/f5ef5ecd-f0c7-429c-8a3e-4250e443335e)
+
+👩🏼‍💻 I'm a frontend developer from Moscow with a passion for clean code, great UX, and beautiful UI.  
+☕ I believe good coffee and good design have something in common — they both make life better.
+
+### 💼 What I do
+
+- 🔧 I build modern, responsive websites with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🎨 I care about UI/UX and often design interfaces in **Figma**
+- ✨ I love combining development and aesthetics: pixel-perfect layout, smooth interactions, consistent styles
+- 🧠 Currently deepening my knowledge of **JavaScript**, **TypeScript**, and **state management** tools
+
+### 🧩 Skills & Tools
+
+<img width="512" height="512" alt="gitlab" src="https://github.com/user-attachments/assets/560c1fd7-b9bc-43a0-b639-83549c6e847c" />
+<img width="512" height="512" alt="github" src="https://github.com/user-attachments/assets/127d1f26-a87e-4537-b9fd-bec8c90c2d4c" />
+<img width="512" height="512" alt="figma" src="https://github.com/user-attachments/assets/9290c013-b85d-40c4-b8ec-ca5524cf7d9f" />
+<img width="512" height="512" alt="react" src="https://github.com/user-attachments/assets/81f030d7-954f-4159-8476-afcf0085d632" />
+<img width="512" height="512" alt="vue" src="https://github.com/user-attachments/assets/7b25f424-a36e-4410-84be-3727a993a736" />
+<img width="512" height="512" alt="typescript" src="https://github.com/user-attachments/assets/e3def7be-f698-4a92-892d-8ca91eef3891" />
+<img width="512" height="512" alt="sass" src="https://github.com/user-attachments/assets/b22b5252-d711-49ae-90d9-18953415683b" />
+<img width="360" height="217" alt="tailwindcss" src="https://github.com/user-attachments/assets/8b9856ae-56c3-4786-b8dc-2143df2c898a" />
+<img width="512" height="512" alt="js" src="https://github.com/user-attachments/assets/1f66d5aa-cecd-4100-9fc2-7c2f04e2f805" />
+<img width="512" height="512" alt="css" src="https://github.com/user-attachments/assets/dd7e09e1-873b-45f0-bc3c-9783f87fed4a" />
+<img width="512" height="512" alt="html" src="https://github.com/user-attachments/assets/dec6a3f6-0602-41b2-bbe9-e8e254269797" />
+
+### 💬 Let’s talk
+
+Ask me about:
+- Traveling (especially Italy 🇮🇹)
+- Coffee & cooking
+- Drawing & books
+- Visual aesthetics & user interfaces
+
+### 📬 Connect with me
+
+- [Telegram](https://t.me/Alina_IT_developer)
+- [E-mail](mailto:Alina.frontend.22@gmail.com)
 
 
-I'm Alina and I'm frontend developer from Moscow👩🏼‍💻
-
-- 💻 I’m currently working on ReactJS
-- 👩🏼‍🎓 I’m currently learning JS improvement and TypeScript
-- 💬 Ask me about traveling, Italy, coffee, cooking, painting, books
-
-
-Connect with me:
-
-- [Telegram](https://t.me/Alina_Koltsova)
-- [E-mail](Alina.frontend.22@gmail.com)
-
-
-![react](https://github.com/Alina-astro/Alina-astro/assets/112349747/4e4797cc-5db9-44bd-94d1-06df09dfbebb)
-![js](https://github.com/Alina-astro/Alina-astro/assets/112349747/42ab0537-837b-4b9f-9b74-f040af820417)
-![html5](https://github.com/Alina-astro/Alina-astro/assets/112349747/ce35d96f-e814-4097-8887-15eb248c544e)
-![css](https://github.com/Alina-astro/Alina-astro/assets/112349747/0824a97f-3282-42e0-b1fa-c7f8c9f2416b)
-![git1](https://github.com/Alina-astro/Alina-astro/assets/112349747/a3a509cb-6b42-40da-9505-122d2186333a)
 
 
 
